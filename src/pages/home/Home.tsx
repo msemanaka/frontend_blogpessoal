@@ -5,7 +5,7 @@ function Home() {
                 w-screen
                 flex
                 justify-center
-                bg-indigo-900
+                bg-violet-900
             ">
                 <div className="
                     container
@@ -21,7 +21,7 @@ function Home() {
                         justify-center
                         py-4
                     ">
-                        <h2 className="text-5xl font-bold">Seja Bem Vinde!</h2>
+                        <h2 className="text-5xl font-bold">Seja bem-vinde!</h2>
                         <p className="text-xl">Expresse aqui os seus pensamentos e opiniões</p>
 
                         <div className="
