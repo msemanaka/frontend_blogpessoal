@@ -6,7 +6,7 @@ function Navbar() {
             <div className="flex w-full justify-center py-4 bg-violet-900 text-white">
 
                 <div className="container flex justify-between text-lg">
-                   <Link to="/" className="text-2xl font- bold"> Blog Pessoal</Link>
+                    <Link to="/" className="text-2xl font- bold"> Blog Pessoal</Link>
 
                     <div className="flex gap-7">
                         <div className="hover:text-violet-200">Postagens</div>
